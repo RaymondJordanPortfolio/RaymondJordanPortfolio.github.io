@@ -1578,7 +1578,7 @@ background: #E0E0E0;
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #5887a7 !important;
+			color: #a75860 !important;
 		}
 
 	strong, b {
@@ -1730,7 +1730,7 @@ background: #E0E0E0;
 	}
 
 	header.major h2 {
-		color: #5887a7;
+		color: #a75860;
 		font-size: 3.5em;
 	}
 
@@ -1793,7 +1793,7 @@ background: #E0E0E0;
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5887a7;
+			border-color: #a75860;
 		}
 
 	.select-wrapper {
@@ -1903,7 +1903,7 @@ background: #E0E0E0;
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #5887a7;
+			border-color: #a75860;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2096,7 +2096,7 @@ background: #E0E0E0;
 				}
 
 				ul.feature-icons li:before {
-					background: #5887a7;
+					background: #a75860;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2383,7 +2383,7 @@ background: #E0E0E0;
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #5887a7;
+			background-color: #a75860;
 			color: #ffffff !important;
 		}
 
@@ -2391,7 +2391,7 @@ background: #E0E0E0;
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5887a7;
+				background-color: #a75860;
 			}
 
 			input[type="submit"].special:active,
@@ -2465,7 +2465,7 @@ background: #E0E0E0;
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #5887a7;
+		background: #a75860;
 		color: #8aabc1;
 		height: 100%;
 		overflow-y: auto;
@@ -2573,7 +2573,7 @@ background: #E0E0E0;
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #5887a7 !important;
+							color: #a75860 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2852,7 +2852,7 @@ background: #E0E0E0;
 					}
 
 					#titleBar .toggle:before {
-						background: #5887a7;
+						background: #a75860;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
