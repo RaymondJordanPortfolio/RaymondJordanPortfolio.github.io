@@ -1876,7 +1876,7 @@
 
 			input[type="checkbox"] + label:before,
 			input[type="radio"] + label:before {
-				background: #fafafa;
+				background: #778899;
 				border-radius: 5px;
 				border: solid 2px #e4e4e4;
 				content: '';
@@ -2215,7 +2215,7 @@
 		}
 
 			table tbody tr:nth-child(2n + 1) {
-				background-color: #fafafa;
+				background-color: #778899;
 			}
 
 		table td {
@@ -2614,7 +2614,7 @@
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #778899;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
