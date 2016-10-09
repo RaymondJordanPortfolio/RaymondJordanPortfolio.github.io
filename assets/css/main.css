@@ -2466,7 +2466,7 @@ background: #E0E0E0;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background: #a75860;
-		color: #8aabc1;
+		color: #466c86;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2485,11 +2485,11 @@ background: #E0E0E0;
 			}
 
 		#header header p {
-			color: #8aabc1;
+			color: #466c86;
 		}
 
 		#header a {
-			color: #8aabc1;
+			color: #466c86;
 		}
 
 			#header a:hover {
@@ -2516,7 +2516,7 @@ background: #E0E0E0;
 			}
 
 			#header > header p {
-				color: #8aabc1;
+				color: #466c86;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2537,7 +2537,7 @@ background: #E0E0E0;
 			}
 
 				#header > footer .icons li a {
-					color: #8aabc1;
+					color: #466c86;
 				}
 
 		#header > nav {
@@ -2583,7 +2583,7 @@ background: #E0E0E0;
 /* Wrapper */
 
 	#wrapper {
-		background: #8aabc1;
+		background: #466c86;
 		padding-right: 23em;
 	}
 
