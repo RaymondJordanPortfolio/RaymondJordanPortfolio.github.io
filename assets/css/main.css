@@ -1579,7 +1579,7 @@
 		}
 
 	strong, b {
-		color: #070707;
+		color: #ffffff;
 		font-weight: 700;
 	}
 
@@ -1769,7 +1769,7 @@
 		border-radius: 5px;
 		border: none;
 		border: solid 2px #e4e4e4;
-		color: inherit;
+		color: #000000;
 		display: block;
 		outline: 0;
 		padding: 0 1em;
