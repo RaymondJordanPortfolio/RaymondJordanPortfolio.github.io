@@ -2388,7 +2388,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #ffffff;
+				background-color: #c18a90;
 			}
 
 			input[type="submit"].special:active,
