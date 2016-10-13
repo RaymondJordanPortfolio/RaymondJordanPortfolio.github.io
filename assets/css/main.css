@@ -2,11 +2,6 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
-/*
-	Read Only by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 /* Reset */
 
@@ -2551,7 +2546,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #6993b0;
+					border-top: solid 2px #ffffff;
 					display: block;
 					padding: 0;
 				}
